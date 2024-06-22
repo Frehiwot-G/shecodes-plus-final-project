@@ -1,4 +1,4 @@
-let currCity = "London";
+let currCity = "Addis Ababa";
 let units = "metric";
 
 // Selectors
